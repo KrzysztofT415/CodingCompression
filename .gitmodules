@@ -1,0 +1,21 @@
+[submodule "CDC-L1"]
+	path = CDC-L1
+	url = https://github.com/KrzysztofT415/CDC-L1
+[submodule "CDC-L2"]
+	path = CDC-L2
+	url = https://github.com/KrzysztofT415/CDC-L2
+[submodule "CDC-L3"]
+	path = CDC-L3
+	url = https://github.com/KrzysztofT415/CDC-L3
+[submodule "CDC-L4"]
+	path = CDC-L4
+	url = https://github.com/KrzysztofT415/CDC-L4
+[submodule "CDC-L5"]
+	path = CDC-L5
+	url = https://github.com/KrzysztofT415/CDC-L5
+[submodule "CDC-L6"]
+	path = CDC-L6
+	url = https://github.com/KrzysztofT415/CDC-L6
+[submodule "CDC-L7"]
+	path = CDC-L7
+	url = https://github.com/KrzysztofT415/CDC-L7
